@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XXMGgUKq3XpIgm4p5TiBqgTlMb5xP0hlYrqoswyQ9XkUljRo05EtU0OOGTELEACPJRZ/eqgXfSYpoxn8/cWlFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zarpi\\Desktop\\IT STEP HOMEWORK\\NetworkProgramming\\Chat_final_edit\\Chat_client_app\\Chat_client_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zarpi\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
