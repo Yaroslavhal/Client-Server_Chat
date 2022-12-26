@@ -44,8 +44,8 @@ namespace Chat_client_app
         {
             try
             {
-                string fileName = "config.txt";
-                IPAddress ip;
+                string fileName = "config.txt";// you can find this file in folder "bin"(you should change
+                IPAddress ip;                  // "config.txt" of Chat_client_app and Console_Server_App(in the folder "bin" of Console_Server_App) on your IP and port to make Server and client UI working)
                 int port;
                 using (FileStream fs = new FileStream(fileName, FileMode.Open, FileAccess.Read))
                 {
