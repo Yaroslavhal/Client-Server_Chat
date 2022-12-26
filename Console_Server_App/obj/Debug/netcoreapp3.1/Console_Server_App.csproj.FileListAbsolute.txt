@@ -1,0 +1,14 @@
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\bin\Debug\netcoreapp3.1\Console_Server_App.exe
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\bin\Debug\netcoreapp3.1\Console_Server_App.deps.json
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\bin\Debug\netcoreapp3.1\Console_Server_App.runtimeconfig.json
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\bin\Debug\netcoreapp3.1\Console_Server_App.runtimeconfig.dev.json
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\bin\Debug\netcoreapp3.1\Console_Server_App.dll
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\bin\Debug\netcoreapp3.1\Console_Server_App.pdb
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\obj\Debug\netcoreapp3.1\Console_Server_App.csproj.AssemblyReference.cache
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\obj\Debug\netcoreapp3.1\Console_Server_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\obj\Debug\netcoreapp3.1\Console_Server_App.AssemblyInfoInputs.cache
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\obj\Debug\netcoreapp3.1\Console_Server_App.AssemblyInfo.cs
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\obj\Debug\netcoreapp3.1\Console_Server_App.csproj.CoreCompileInputs.cache
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\obj\Debug\netcoreapp3.1\Console_Server_App.dll
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\obj\Debug\netcoreapp3.1\Console_Server_App.pdb
+C:\Users\zarpi\Desktop\IT STEP HOMEWORK\NetworkProgramming\Chat_final_edit\Console_Server_App\obj\Debug\netcoreapp3.1\Console_Server_App.genruntimeconfig.cache
