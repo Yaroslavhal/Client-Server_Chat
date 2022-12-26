@@ -77,7 +77,7 @@ namespace Chat_client_app
             }
         }
 
-        private void ReceiveData(TcpClient client) //отримуємо дані від сервера
+        private void ReceiveData(TcpClient client) //get data from server
         {
             NetworkStream ns = client.GetStream();
             var receiveBytes = new byte[16054400];
