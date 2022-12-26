@@ -128,7 +128,7 @@ namespace Chat_client_app
         {
             _message.Text = txtText.Text;
             var buffer = _message.Serialize();
-            ns.Write(buffer); //відправляємо на сервер текст
+            ns.Write(buffer); //sent text on server
 
         }
 
