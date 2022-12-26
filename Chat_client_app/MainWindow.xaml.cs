@@ -154,7 +154,7 @@ namespace Chat_client_app
 
 
         }
-        private string UploadImage(string base64)
+        private string UploadImage(string base64)// Save our avatar
         {
             string server = "https://bv012.novakvova.com";
             UploadDTO upload = new UploadDTO();
